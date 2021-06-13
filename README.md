@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Ahmet Karadaş, I am a Software Developer.
-- 🌱 I’m currently learning Flutter and Python  
+- 🌱 I’m currently learning Flutter, Python and JavaScript
 - 📫 How to reach me: ahmettkara94@gmail.com
 
 ---
