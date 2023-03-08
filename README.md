@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Ahmet Karadaş, I am a Software Developer.
-- 🌱 I’m currently learning Blockchain, Python and JavaScript
+- 🌱 I’m the founder of "Kam Software"
+
+- 🌱 Front-end & Mobil Developer"
+
 - 📫 How to reach me: ahmettkara94@gmail.com
 
 ---
