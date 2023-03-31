@@ -3,6 +3,8 @@
 
 - 🌱 Front-end & Mobil Developer"
 
+- 📫 You can contact me via company email: ahmet.karadas@kamsoftware.com
+
 - 📫 How to reach me: ahmettkara94@gmail.com
 
 ---
