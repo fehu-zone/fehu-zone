@@ -5,7 +5,7 @@
 
 - 🌱 Wordpress Developer"
 
-- 🌱 Data Analysis Developer"
+- 🌱 Data Analysis"
 
 - 📫 You can contact me via company email: ahmet.karadas@kamsoftware.com
 
