@@ -1,3 +1,22 @@
+# 🚗 International Efficiency Challenge: A Thrilling Journey  
+I had the privilege of working as a software developer in the **International Efficiency Challenge Electric Vehicle Competition**, where I gained hands-on experience in developing innovative solutions in a high-pressure, fast-paced environment. This competition not only sharpened my technical skills but also fueled my passion for problem-solving in real-world applications.
+
+# 👥 Leading a Software Community at University  
+During my time at university, I founded a software community that grew to over **120 members**. Leading this diverse group as president was an incredible opportunity for me to enhance my leadership and organizational skills. We worked on multiple projects, held workshops, and fostered a collaborative environment where members could develop their programming abilities and share knowledge.
+
+# 💻📱  Professional Experience in Web and Mobile Development  
+After university, I gained valuable professional experience by working for **six months** in a company focused on web and mobile programming. This role allowed me to deepen my understanding of full-stack development, tackle various technical challenges, and contribute to commercial projects.
+
+# 🚀 Starting My Own Company  
+Driven by an entrepreneurial spirit, I later teamed up with close friends to **start our own company**. We continue to take on external projects, blending creativity and technology to deliver solutions for our clients. Building a business from the ground up has taught me resilience, adaptability, and the importance of teamwork.
+
+# 📈 Experience in Digital Marketing and Data Analysis  
+In a **360-degree digital marketing company**, I learned about product management, social media advertising, social media management, Google Ads management, Meta platform advertising management, and WordPress website development. This experience allowed me to utilize **Google Analytics** for data interpretation and analysis, enabling me to continuously secure work opportunities. By integrating data analysis, data science, and digital marketing, I aim to enhance the efficiency of my clients' businesses.
+
+
+# 📊 Focus on Data Science and Analytics  
+Today, I am actively working to expand my knowledge in **data analysis and data science**, areas that increasingly shape the future of technology and business. By enhancing my skills in these fields, I aim to forge a career where I can combine my passion for data-driven insights with my software development background to solve complex challenges and make impactful contributions.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fehu.zone/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmetkaradas/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmettkara94) 
