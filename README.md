@@ -5,16 +5,16 @@ I had the privilege of working as a software developer in the **International Ef
 During my time at university, I founded a software community that grew to over **120 members**. Leading this diverse group as president was an incredible opportunity for me to enhance my leadership and organizational skills. We worked on multiple projects, held workshops, and fostered a collaborative environment where members could develop their programming abilities and share knowledge.
 
 # 💻📱  Professional Experience in Web and Mobile Development  
-After university, I gained valuable professional experience by working for **six months** in a company focused on web and mobile programming. This role allowed me to deepen my understanding of full-stack development, tackle various technical challenges, and contribute to commercial projects.
+When I was a senior in college, I gained valuable professional experience by working for a time at a company that focused on web and mobile programming. This role allowed me to deepen my understanding of full-stack development, tackle a variety of technical challenges, and contribute to commercial projects.
 
 # 🚀 Starting My Own Company  
-Driven by an entrepreneurial spirit, I later teamed up with close friends to **start our own company**. We continue to take on external projects, blending creativity and technology to deliver solutions for our clients. Building a business from the ground up has taught me resilience, adaptability, and the importance of teamwork.
+Acting with an entrepreneurial spirit, in my senior year at university, I came together with my close friends and **founded our own company**. We continue to undertake external projects, blending creativity and technology to deliver solutions to our customers. Building a business from scratch taught me resilience, adaptability, and the importance of teamwork.
 
 # 📈 Experience in Digital Marketing and Data Analysis  
 In a **360-degree digital marketing company**, I learned about product management, social media advertising, social media management, Google Ads management, Meta platform advertising management, and WordPress website development. This experience allowed me to utilize **Google Analytics** for data interpretation and analysis, enabling me to continuously secure work opportunities. By integrating data analysis, data science, and digital marketing, I aim to enhance the efficiency of my clients' businesses.
 
 
-# 📊 Focus on Data Science and Analytics  
+# 📊 I Concentrated on Data Science and Analytics 
 Today, I am actively working to expand my knowledge in **data analysis and data science**, areas that increasingly shape the future of technology and business. By enhancing my skills in these fields, I aim to forge a career where I can combine my passion for data-driven insights with my software development background to solve complex challenges and make impactful contributions.
 
 
