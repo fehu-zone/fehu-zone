@@ -1,8 +1,9 @@
-## Hello there! 👋  
+## [Hello there! 👋](https://youtu.be/rEq1Z0bjdwc?si=dCOx4KC_Hg8f-O34&t=6)  
 
 🔍 **Data Analyst** passionate about uncovering insights and making data-driven decisions.  
 📊 **Focused** on transforming data into powerful visuals and stories.  
-💡 **Leveraging past experience** in web and mobile development to enhance data analysis, building solutions with a user-centered and technical approach.
+💡 **Leveraging experience** in web/mobile development to enhance data analysis and build user-centered solutions.  
+📈 **Utilizing digital marketing expertise**, including tools like **Google Analytics**, to drive data-driven decision-making.
 
 ---
 
@@ -11,10 +12,12 @@
 - **pandas** 🐼
 - **SQL & MSSQL** 💾
 - **Power BI** 📈
+- **Google Analytics** 📊
 
 ### 🌱 Currently Developing Skills In
 - **Data Visualization** 📊
 - **Statistical Analysis** 📐
+- **Marketing Analysis** 📈
 
 ### 💬 Let’s Connect!
 Reach out to me about **data wrangling**, **data visualization**, **data analytics**, and **SQL**.
@@ -27,6 +30,7 @@ Reach out to me about **data wrangling**, **data visualization**, **data analyti
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fehu94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkaradas/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ahmettkara94)
+
 
 
 
