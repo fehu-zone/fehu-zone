@@ -9,7 +9,7 @@
 
 ### 🛠️ Tools I Use Daily
 - <img src="https://img.icons8.com/color/30/000000/python--v1.png" alt="Python" style="vertical-align:middle;"/> **Python**
-- <img src="https://img.icons8.com/color/30/000000/pandas.png" alt="pandas" style="vertical-align:middle;"/> **pandas**
+- <img src="https://img.icons8.com/color/30/000000/pandas.png" alt="pandas" style="vertical-align:middle;"/> **Pandas**
 - <img src="https://img.icons8.com/color/30/000000/sql.png" alt="SQL & MSSQL" style="vertical-align:middle;"/> **SQL & MSSQL**
 - <img src="https://img.icons8.com/color/30/000000/power-bi.png" alt="Power BI" style="vertical-align:middle;"/> **Power BI**
 - <img src="https://img.icons8.com/color/30/000000/google-analytics.png" alt="Google Analytics" style="vertical-align:middle;"/> **Google Analytics**
