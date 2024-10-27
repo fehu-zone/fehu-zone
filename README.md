@@ -8,11 +8,12 @@
 ---
 
 ### 🛠️ Tools I Use Daily
-- <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="20"/> **Python**
-- <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="20"/> **pandas**
-- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL & MSSQL" width="20"/> **SQL & MSSQL**
-- <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="20"/> **Power BI**
-- <img src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics" width="20"/> **Google Analytics**
+- <img src="https://img.icons8.com/color/30/000000/python--v1.png" alt="Python" style="vertical-align:middle;"/> **Python**
+- <img src="https://img.icons8.com/color/30/000000/pandas.png" alt="pandas" style="vertical-align:middle;"/> **pandas**
+- <img src="https://img.icons8.com/color/30/000000/sql.png" alt="SQL & MSSQL" style="vertical-align:middle;"/> **SQL & MSSQL**
+- <img src="https://img.icons8.com/color/30/000000/power-bi.png" alt="Power BI" style="vertical-align:middle;"/> **Power BI**
+- <img src="https://img.icons8.com/color/30/000000/google-analytics.png" alt="Google Analytics" style="vertical-align:middle;"/> **Google Analytics**
+
 
 ### 🌱 Currently Developing Skills In
 - **Data Visualization** 📊
@@ -26,6 +27,7 @@ Reach out to me about **data wrangling**, **data visualization**, **data analyti
 
 ### 🌐 Find Me On
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmett.karadas@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fehu-zone)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fehu94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkaradas/)
