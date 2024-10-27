@@ -8,11 +8,11 @@
 ---
 
 ### 🛠️ Tools I Use Daily
-- **Python** 🐍
-- **pandas** 🐼
-- **SQL & MSSQL** 💾
-- **Power BI** 📈
-- **Google Analytics** 📊
+- <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="20"/> **Python**
+- <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="20"/> **pandas**
+- <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL & MSSQL" width="20"/> **SQL & MSSQL**
+- <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="20"/> **Power BI**
+- <img src="https://img.icons8.com/color/48/000000/google-analytics.png" alt="Google Analytics" width="20"/> **Google Analytics**
 
 ### 🌱 Currently Developing Skills In
 - **Data Visualization** 📊
