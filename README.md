@@ -1,15 +1,20 @@
 ## [Hello there! 👋](https://youtu.be/rEq1Z0bjdwc?si=dCOx4KC_Hg8f-O34&t=6)  
 🚀 [Check Out My Website](https://ahmetkaradas.site/)
 
-🔍 **Data Analyst** passionate about uncovering insights and making data-driven decisions.  
-📊 **Focused** on transforming data into powerful visuals and stories.  
-💡 **Leveraging experience** in web/mobile development to enhance data analysis and build user-centered solutions.  
-📈 **Utilizing digital marketing expertise**, including tools like **Google Analytics**, to drive data-driven decision-making.
+🔍 Data Analyst passionate about uncovering insights and making data-driven decisions.  
+📊 Focused on transforming data into powerful visuals and stories.  
+💡 Leveraging experience in web/mobile development to enhance data analysis and build user-centered solutions.  
+📈 Utilizing digital marketing expertise, including tools like Google Analytics, to drive data-driven decision-making.  
+⚙️ Integrating Elasticsearch ecosystem, including Kibana dashboards with interactive metrics and TVSB-based visualizations.
+
 
 ---
 
 ### 🛠️ Tools I Use Daily
 - <img src="https://img.icons8.com/color/30/000000/elasticsearch.png" alt="Elasticsearch" style="vertical-align:middle;"/> **Elasticsearch**
+- <img src="https://img.icons8.com/color/30/000000/kibana.png" alt="Kibana" style="vertical-align:middle;"/> **Kibana**
+- <img src="https://img.icons8.com/color/30/000000/logstash.png" alt="Logstash" style="vertical-align:middle;"/> **Logstash**
+- <img src="https://img.icons8.com/color/30/000000/javascript.png" alt="JavaScript" style="vertical-align:middle;"/> **JavaScript**
 - <img src="https://img.icons8.com/color/30/000000/python--v1.png" alt="Python" style="vertical-align:middle;"/> **Python**
 - <img src="https://img.icons8.com/color/30/000000/pandas.png" alt="pandas" style="vertical-align:middle;"/> **Pandas**
 - <img src="https://img.icons8.com/color/30/000000/sql.png" alt="SQL & MSSQL" style="vertical-align:middle;"/> **SQL & MSSQL**
@@ -29,6 +34,7 @@ Reach out to me about **data wrangling**, **data visualization**, **data analyti
 
 ### 🌐 Find Me On
 
+[![Website](https://img.shields.io/badge/Website-ahmetkaradas.site-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmetkaradas.site)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmett.karadas@icloud.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fehu94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkaradas/)
