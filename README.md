@@ -46,4 +46,6 @@ Reach out to me about **data wrangling**, **data visualization**, **data analyti
 
 [![](https://visitcount.itsvg.in/api?id=fehu-zone&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Snake animation](https://raw.githubusercontent.com/fehu-zone/fehu-zone/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
