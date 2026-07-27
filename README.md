@@ -34,7 +34,7 @@ Reach out to me about **data wrangling**, **data visualization**, **data analyti
 
 ### 🌐 Find Me On
 
-[![Website](https://img.shields.io/badge/Website-ahmetkaradas.site-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmetkaradas.site)
+[![Website](https://img.shields.io/badge/Website-ahmetkaradas.site-FF7139?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmetkaradas.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmett.karadas@icloud.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fehu94)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkaradas/)
